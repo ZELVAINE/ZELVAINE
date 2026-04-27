@@ -1,4 +1,4 @@
-# zelvaine
+# zelvaine 🍃
 
 Mechanical engineering student with a detour into systems, security, and anything that lets me break things in a controlled environment. Building tools I actually want to use.
 
