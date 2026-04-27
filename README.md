@@ -24,3 +24,8 @@ Arch-based Linux distro with a dark earth tone aesthetic and sensible defaults. 
 `linux` `firefox extensions` `javascript` `bash` `cybersecurity` `open source`
 
 Also into PC gaming and the weird ends of the internet.
+
+---
+
+## Current Status
+Minimal development currently due to real life being busy.
