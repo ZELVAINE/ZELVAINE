@@ -20,11 +20,15 @@ AI sidebar for Basketball GM that reads live game state from IndexedDB and gives
 
 Arch-based Linux distro with a dark earth tone aesthetic and sensible defaults. Minimal by design, nothing hidden from you.
 
+**Ground Launcher**
+
+Currently private and very early stages, a minimal android launcher that combines my favourite aspects of multiple different minimal launchers.
+
 ---
 
 ## Stack / interests
 
-`linux` `firefox extensions` `javascript` `bash` `cybersecurity` `foss/copyleft` `bsd` `android development` 
+`linux` `firefox extensions` `javascript` `bash` `cybersecurity` `foss/copyleft` `bsd` `android development` `kotlin`
 
 Also into PC gaming and the weird ends of the internet.
 
