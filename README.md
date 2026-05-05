@@ -8,6 +8,8 @@ Interested in cybersecurity, Linux internals, and how software fails.
 
 ## Projects
 
+`ℹ️ Some projects will come and go from this list, as sometimes I use it to organise all of the ideas I have. Any projects with repository links will always remain, will be developed when possible, and are open to contribution from anyone.`
+
 `⚠️ Most projects are not currently being worked on fully due to time constraints (university deadlines and exams).`
 
 **[URLScanner](https://github.com/zelvaine/urlscanner)**
@@ -25,6 +27,14 @@ Arch-based Linux distro with a dark earth tone aesthetic and sensible defaults. 
 **Ground Launcher**
 
 Currently private and very early stages, a minimal android launcher that combines my favourite aspects of multiple different minimal launchers.
+
+**Critter Catcher**
+
+Currently still in the idea stage, Critter Catcher is a Minecraft mod that aims to add a bug catching system to Minecraft, with over 80 unique bugs planned and a full Museum/Critterpedia system planned.
+
+**ERAS: Conquest of Morlavia**
+
+Another project still in the idea stage, E:CoM is a concept for an indie, potentially fully open source RPGMaker-style MMORPG, aiming to provide infinite possibilities for player towns, guilds, classes, pets, accessories etc, aiming to blend my favourite aspects of various MMORPGs such as WoW, FFXIV, Eve Online and Black Desert.
 
 ---
 
