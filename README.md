@@ -8,6 +8,8 @@ Interested in cybersecurity, Linux internals, and how software fails.
 
 ## Projects
 
+`⚠️ Most projects are not currently being worked on fully due to time constraints (university deadlines and exams).`
+
 **[URLScanner](https://github.com/zelvaine/urlscanner)**
 
 Firefox extension that analyses URLs for phishing indicators — heuristic scoring, homoglyph detection, domain entropy, RDAP domain age lookup, optional VirusTotal integration.
