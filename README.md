@@ -50,7 +50,7 @@ Project Meridian is a purely theoretical project that has a small chance of beco
 
 `linux` `firefox extensions` `javascript` `bash` `cybersecurity` `foss/copyleft` `bsd` `android development` `kotlin` `robotics` `cicadoidea` `entomology` `rust`
 
-Also into PC gaming and the weird ends of the internet.
+Also into PC gaming and the weird ends of the internet. Heavily interested in philosophy.
 
 ---
 
