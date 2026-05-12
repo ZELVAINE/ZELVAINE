@@ -42,13 +42,13 @@ Another project still in the idea stage, E:CoM is a concept for an indie, potent
 
 **Project Meridian**
 
-Project Meridian is a purely theoretical project that has a small chance of becoming real within the next decade, in which I explore concepts of autonomy, ethics, morality and philosophical questions in a situation where an AI is given a robotic body. Some of these questions include asking if it is ethical to give this AI constraints, the level of autonomy that it has, if it would be considered concious, and the implications of an unconstrained constantly running AI with a robotic body. Mainly fueled by a love of media like "I, Robot" and "Detroit: Become Human". Purely theoretical with no planned development.
+Project Meridian is a purely theoretical project that has a small chance of becoming real within the next decade, in which I explore concepts of autonomy, ethics, morality and philosophical questions in a situation where an AI is given a robotic body. Some of these questions include asking if it is ethical to give this AI constraints, the level of autonomy that it has, if it would be considered concious, and the implications of an unconstrained constantly running AI with a robotic body. Mainly fueled by a love of media like "I, Robot", "I Have No Mouth, And I Must Scream" and "Detroit: Become Human". Purely theoretical with no planned development, this acts as a philosophical thought experiment exploring concepts of consciousness and autonomy.
 
 ---
 
 ## Stack / interests
 
-`linux` `firefox extensions` `javascript` `bash` `cybersecurity` `foss/copyleft` `bsd` `android development` `kotlin` `robotics` `cicadoidea` `entomology`
+`linux` `firefox extensions` `javascript` `bash` `cybersecurity` `foss/copyleft` `bsd` `android development` `kotlin` `robotics` `cicadoidea` `entomology` `rust`
 
 Also into PC gaming and the weird ends of the internet.
 
