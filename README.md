@@ -12,6 +12,10 @@ Interested in cybersecurity, Linux internals, and how software fails.
 
 `⚠️ Most projects are not currently being worked on fully due to time constraints (university deadlines and exams).`
 
+**Petal**
+
+A minimalistic, lightweight, basic FOSS desktop sticky notes app, built with Rust and Tauri.
+
 **Ground Launcher**
 
 Currently private and very early stages, a minimal android launcher that combines my favourite aspects of multiple different minimal launchers.
