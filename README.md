@@ -32,18 +32,17 @@ AI sidebar for Basketball GM that reads live game state from IndexedDB and gives
 
 Firefox extension that analyses URLs for phishing indicators - heuristic scoring, homoglyph detection, domain entropy, RDAP domain age lookup, optional VirusTotal integration.
 
+**Simply Brewing**
+
+A Minecraft mod mainly being developed for myself and friends that adds brewing of various types of alcohol and coffee through various methods.
+
 **Critter Catcher**
 
 Currently still in the idea stage, Critter Catcher is a Minecraft mod that aims to add a bug catching system to Minecraft, with over 80 unique bugs planned and a full Museum/Critterpedia system planned.
 
-**ERAS: Conquest of Morlavia**
+**Metaphysical Consequences: A Psijic Questline**
 
-Another project still in the idea stage, E:CoM is a concept for an indie, potentially fully open source RPGMaker-style MMORPG, aiming to provide infinite possibilities for player towns, guilds, classes, pets, accessories etc, aiming to blend my favourite aspects of various MMORPGs such as WoW, FFXIV, Eve Online and Black Desert.
-
-**Project Meridian**
-
-Project Meridian is a purely theoretical project that has a small chance of becoming real within the next decade, in which I explore concepts of autonomy, ethics, morality and philosophical questions in a situation where an AI is given a robotic body. Some of these questions include asking if it is ethical to give this AI constraints, the level of autonomy that it has, if it would be considered concious, and the implications of an unconstrained constantly running AI with a robotic body. Mainly fueled by a love of media like "I, Robot", "I Have No Mouth, And I Must Scream" and "Detroit: Become Human". Purely theoretical with no planned development, this acts as a philosophical thought experiment exploring concepts of consciousness and autonomy.
-
+A Skyrim mod currently still in the planning stage, exploring the metaphysics of Tamriel and the consequences of one of the towers (Snow Throat) destabalising.
 ---
 
 ## Stack / interests
