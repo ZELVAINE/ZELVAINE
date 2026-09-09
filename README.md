@@ -1,6 +1,6 @@
 # zelvaine 🍃
 
-Mechanical engineering student with a detour into systems, security, and anything that lets me break things in a controlled environment. Building tools I actually want to use.
+Hobbyist programmer with an interest systems, security, and anything that lets me break things in a controlled environment. Building tools I actually want to use.
 
 Interested in cybersecurity, Linux internals, and how software fails.
 
