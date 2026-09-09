@@ -10,7 +10,7 @@ Interested in cybersecurity, Linux internals, and how software fails.
 
 `ℹ️ Some projects will come and go from this list, as sometimes I use it to organise all of the ideas I have. Any projects with repository links will always remain, will be developed when possible, and are open to contribution from anyone. Projects are listed in order of development, with the top being currently developing or next to develop, and the bottom being projects that will take a while to get around to. Completed projects will also sit at the top.`
 
-`⚠️ Most projects are not currently being worked on fully due to time constraints (university deadlines and exams).`
+`⚠️ Not all projects that I am working on are shown here. Only projects that I feel are either a fleshed out enough idea, or have been developed enough to be properly released, are listed here. Due to this, activity may seem low, but I tend to prefer bulk uploading full projects rather than creating a project to then upload everything every day to.`
 
 **Petal**
 
@@ -36,6 +36,10 @@ Firefox extension that analyses URLs for phishing indicators - heuristic scoring
 
 A Minecraft mod mainly being developed for myself and friends that adds brewing of various types of alcohol and coffee through various methods.
 
+**Alchemist: An Alchemy Skill and Weapon Overhaul**
+
+A Skyrim mod currently being worked on that overhauls the alchemy system, as well as adds a new type of throwable potion for AoE damage and effects.
+
 **Critter Catcher**
 
 Currently still in the idea stage, Critter Catcher is a Minecraft mod that aims to add a bug catching system to Minecraft, with over 80 unique bugs planned and a full Museum/Critterpedia system planned.
@@ -43,11 +47,12 @@ Currently still in the idea stage, Critter Catcher is a Minecraft mod that aims 
 **Metaphysical Consequences: A Psijic Questline**
 
 A Skyrim mod currently still in the planning stage, exploring the metaphysics of Tamriel and the consequences of one of the towers (Snow Throat) destabalising.
+
 ---
 
 ## Stack / interests
 
-`linux` `firefox extensions` `javascript` `bash` `cybersecurity` `foss/copyleft` `bsd` `android development` `kotlin` `robotics` `cicadoidea` `entomology` `rust`
+`linux` `firefox extensions` `javascript` `bash` `cybersecurity` `foss/copyleft` `bsd` `android development` `kotlin` `rust` `robotics` `cicadoidea` 
 
 Also into PC gaming and the weird ends of the internet. Heavily interested in philosophy.
 
