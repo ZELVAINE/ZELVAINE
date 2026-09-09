@@ -10,7 +10,7 @@ Interested in cybersecurity, Linux internals, and how software fails.
 
 `ℹ️ Some projects will come and go from this list, as sometimes I use it to organise all of the ideas I have. Any projects with repository links will always remain, will be developed when possible, and are open to contribution from anyone. Projects are listed in order of development, with the top being currently developing or next to develop, and the bottom being projects that will take a while to get around to. Completed projects will also sit at the top.`
 
-`⚠️ Not all projects that I am working on are shown here. Only projects that I feel are either a fleshed out enough idea, or have been developed enough to be properly released, are listed here. Due to this, activity may seem low, but I tend to prefer bulk uploading full projects rather than creating a project to then upload everything every day to.`
+`⚠️ Not all projects that I am working on are shown here. Only projects that I feel are either a fleshed out enough idea, or have been developed enough to be properly released, are listed here. Due to this, the contributions section may seem sparse, but I tend to prefer bulk uploading full projects rather than creating a project to then upload everything every day to.`
 
 **Petal**
 
