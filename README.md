@@ -57,6 +57,3 @@ A Skyrim mod currently still in the planning stage, exploring the metaphysics of
 Also into PC gaming and the weird ends of the internet. Heavily interested in philosophy.
 
 ---
-
-## Current Status
-Minimal development currently due to real life being busy.
