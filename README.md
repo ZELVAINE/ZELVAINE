@@ -54,6 +54,4 @@ A Skyrim mod currently still in the planning stage, exploring the metaphysics of
 
 `linux` `firefox extensions` `javascript` `bash` `cybersecurity` `foss/copyleft` `bsd` `android development` `kotlin` `rust` `robotics` `cicadoidea` 
 
-Also into PC gaming and the weird ends of the internet. Heavily interested in philosophy.
-
 ---
